@@ -2,7 +2,7 @@ public class numTreesTest {
 
 
     public static void main(String[] args) {
-        int res = numTrees(3);
+        int res = numTrees(4);
         System.out.println(res);
     }
 
